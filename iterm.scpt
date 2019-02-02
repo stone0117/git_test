@@ -15,7 +15,7 @@ tell application "iTerm"
 
 end tell
 
-
+-- 为毛中文是乱码
 
 --  set finderPath to ""
 --
