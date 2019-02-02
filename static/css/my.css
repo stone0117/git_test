@@ -4,8 +4,9 @@
 	background-color: #f0f0f0;
 }
 
-.pp{
-	width: 150px;
-	height: 150px;
-	background-color: #faf0f4
+.box{
+  width            : 150px;
+  height           : 150px;
+  background-color : #FFE4B5;
+  box-shadow       : 0 0 0 1px #000 inset;
 }
